@@ -1,2 +1,2 @@
-# Defender
+# MyDefender
 Tower defense game
